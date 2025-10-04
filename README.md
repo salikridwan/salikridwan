@@ -1,14 +1,21 @@
-# Salik Ridwan  
+# Salik Ridwan
 
-I am an embedded systems engineer with extensive experience in designing and developing complex systems where reliability, maintainability, and precision are paramount. My professional focus is on constructing frameworks and methodologies that enable robust and deterministic behavior in embedded and IoT environments. I have cultivated a deep understanding of system architecture, low-level software abstraction, and the interaction between software and hardware, allowing me to create solutions that are simultaneously efficient, scalable, and adaptable to evolving technological requirements.  
+I am an embedded systems engineer with extensive experience in designing and developing complex systems where **reliability**, **maintainability**, and **precision** are paramount. My professional focus is on constructing frameworks and methodologies that enable **robust** and **deterministic behavior** in embedded and IoT environments. I have cultivated a deep understanding of system architecture, low-level software abstraction, and the interaction between software and hardware, allowing me to create solutions that are simultaneously **efficient**, **scalable**, and **adaptable** to evolving technological requirements.
 
-In my work, I emphasize rigorous engineering practices and meticulous attention to detail. I approach each project with a commitment to clarity, reproducibility, and verification, ensuring that every component of a system functions correctly and cohesively. I have extensive experience in software design patterns that facilitate maintainability, modularity, and cross-platform compatibility, as well as in implementing frameworks that enable comprehensive testing and validation without relying on immediate physical prototypes. This methodology accelerates development while mitigating risk and enhancing the predictability of system behavior under real-world conditions.  
+---
 
-I integrate security and resilience into every layer of my designs, ensuring that systems are robust against both operational anomalies and potential vulnerabilities. My practice encompasses end-to-end development processes, from conceptual design to deployment, including continuous integration, automated validation, and structured verification workflows. I am adept at translating complex technical concepts into actionable frameworks, fostering collaboration across teams, and ensuring alignment between engineering objectives and strategic outcomes.  
+In my work, I place strong emphasis on **disciplined engineering practices** and careful, deliberate attention to every detail. I approach each project with a commitment to **clarity**, **reproducibility**, and **rigorous verification**, ensuring that every component of a system functions reliably and integrates seamlessly with the larger architecture. Over the years, I have gained extensive experience with **software design patterns** that encourage maintainability, modularity, and cross-platform compatibility, as well as with **frameworks** that allow for thorough testing and validation without the need for immediate access to physical hardware.
 
-My expertise spans a broad spectrum of competencies including embedded system engineering, simulation and virtualization methodologies, real-time and safety-critical system design, low-level software abstraction, secure design principles, and systematic verification. I approach engineering as both a technical discipline and an intellectual endeavor, valuing foresight, precision, and thoughtful orchestration in every stage of development. My objective is to deliver solutions that are reliable, maintainable, and future-proof, contributing meaningfully to the advancement of embedded systems practices.  
+This approach accelerates development cycles while **reducing risk** and ensuring that system behavior remains **predictable** under practical operating conditions.
 
-## Links  
-[Website](https://salik.is-a.dev)  
+---
 
-*"Embedded system development is the careful orchestration of design, validation, and execution to achieve reliable and maintainable solutions."*
+I incorporate **security** and **resilience** into every aspect of my designs, creating systems that can withstand operational irregularities and potential vulnerabilities. My work spans the full development lifecycle, from initial conceptualization to deployment, including **continuous integration**, **automated validation**, and **methodical verification processes**. I excel at translating complex technical challenges into actionable strategies, facilitating collaboration among teams, and aligning engineering efforts with broader project goals and organizational priorities.
+
+---
+
+My expertise covers a wide range of areas, including **embedded system engineering**, **simulation and virtualization methodologies**, **real-time and safety-critical system design**, **low-level software abstraction**, **secure design principles**, and **systematic verification**. I approach engineering both as a practical craft and an intellectual pursuit, valuing **foresight**, **rigor**, and careful orchestration at every stage of development. My aim is to deliver solutions that are **dependable**, **maintainable**, and **prepared for future demands**, while contributing substantively to the evolution of best practices in embedded systems development.
+
+---
+
+*"Embedded system development is not merely a technical exercise; it is the deliberate orchestration of design, verification, and execution to produce reliable, maintainable, and future-proof solutions."*
